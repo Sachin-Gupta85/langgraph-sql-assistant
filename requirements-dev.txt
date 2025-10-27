@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8,<9
+# optional for --live: langchain-openai>=0.2
